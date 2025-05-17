@@ -1,0 +1,9 @@
+# Ignore Arduino IDE temporary files
+*.build
+*.elf
+*.hex
+*.pde
+*.bin
+
+# Ignore the build folders created by Arduino IDE
+/build/
