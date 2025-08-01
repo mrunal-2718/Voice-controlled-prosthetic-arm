@@ -52,7 +52,7 @@ prosthetic-arm/
 
 ## 👤 Author
 
-- Your Name: Mrunal Tambat
+- Your Names : Mrunal Tambat , Shruti Sharma , Gargi Muley
 - GitHub Username: mrunal-2718
 - Email:
 
